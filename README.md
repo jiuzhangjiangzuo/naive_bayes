@@ -4,7 +4,7 @@
 1. 确认已经安装conda, 安装详情请参考之前的教程：https://www.jiuzhang.com/tutorial/ai-camp/477
 2. 打开一个terminal，windows用户建议打开Anaconda Prompt.
 3. 输入命令行: conda create --name nb python=3.5
-4. 如果要求预装一些包，选择yes: y
+4. 如果要求预装一些包，[y]/n: y
 5. 输入命令行: conda activate nb   (有同学的环境激活命令是:source activate nb,注意看环境创建完成之后，terminal上面的提示信息)。   
 如果激活环境遇到了问题，conda会自己提示解决方案，比如：
 ```
