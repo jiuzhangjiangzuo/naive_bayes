@@ -1,6 +1,6 @@
 jupyter
 sklearn
-numpy=1.13.1
+numpy==1.13.1
 pandas
 matplotlib
 scipy
