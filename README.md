@@ -7,7 +7,8 @@
 2.1 输入命令行: git clone https://github.com/jiuzhangjiangzuo/naive_bayes.git 或直接下载压缩包[link](https://github.com/jiuzhangjiangzuo/naive_bayes/archive/master.zip)          
 2.2 输入命令行: cd naive_bayes          
 2.3 运行jupyter: jupyter notebook          
-2.4 在notebook中尝试运行nb-sklearn-version.ipynb，看看是否会出错          
+2.4 在notebook中尝试运行nb-sklearn-version.ipynb，看看是否会出错     
+2.5 若成功运行，则忽略下面的内容      
 
 ## 如果anacoda的环境不包含所需要的库，请按照以下步骤安装
 3.1 打开一个terminal，windows用户建议打开Anaconda Prompt.          
